@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Ejercicio1
 	Escribir "Ingrese un número de 0 a 15"
 	Leer num
 	

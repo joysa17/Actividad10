@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Ejercicio3
 			
 	Escribir "Ingrese un número"
 	leer num		
